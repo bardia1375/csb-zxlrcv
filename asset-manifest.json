@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bardia1375.github.io/csb-zxlrcv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bardia1375.github.io/csb-zxlrcv/static/js/main.3506c266.chunk.js",
+    "main.js.map": "https://bardia1375.github.io/csb-zxlrcv/static/js/main.3506c266.chunk.js.map",
+    "runtime-main.js": "https://bardia1375.github.io/csb-zxlrcv/static/js/runtime-main.1e7d8e0e.js",
+    "runtime-main.js.map": "https://bardia1375.github.io/csb-zxlrcv/static/js/runtime-main.1e7d8e0e.js.map",
+    "static/js/2.0190b507.chunk.js": "https://bardia1375.github.io/csb-zxlrcv/static/js/2.0190b507.chunk.js",
+    "static/js/2.0190b507.chunk.js.map": "https://bardia1375.github.io/csb-zxlrcv/static/js/2.0190b507.chunk.js.map",
+    "index.html": "https://bardia1375.github.io/csb-zxlrcv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bardia1375.github.io/csb-zxlrcv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0190b507.chunk.js.LICENSE.txt": "https://bardia1375.github.io/csb-zxlrcv/static/js/2.0190b507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e7d8e0e.js",
+    "static/js/2.0190b507.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3506c266.chunk.js"
+  ]
+}
